@@ -8,3 +8,4 @@ git add .
 git commit -m "hello"
 git log
 git push -u origin main
+git clone(url)
