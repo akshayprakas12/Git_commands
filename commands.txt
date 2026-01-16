@@ -1,0 +1,10 @@
+git --version
+ git config --global user.name "Akshay"
+  git config --global user.name "prakashakshay335@gmail.com"
+
+git status
+git init
+git add .
+git commit -m "hello"
+git log
+git push -u origin main
